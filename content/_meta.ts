@@ -7,7 +7,8 @@ export default {
     type: 'menu',
     items: {
       'valid-jolli-api-yaml': { title: 'Custom API 1', href: '/api-docs/valid-jolli-api-yaml' },
-      'valid-pet-store-api-yaml': { title: 'Custom API 2', href: '/api-docs/valid-pet-store-api-yaml' }
+      'valid-pet-store-api-yaml': { title: 'Custom API 2', href: '/api-docs/valid-pet-store-api-yaml' },
+      'valid-jolli-api-json': { title: 'Valid - Jolli API (JSON)', href: '/api-docs/valid-jolli-api-json' }
     }
   }
 }
